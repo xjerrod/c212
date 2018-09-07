@@ -1,0 +1,8 @@
+import java.math.BigDecimal;
+
+public class LabThree
+{
+  public static void main(String[] args) {
+    BigDecimal one = new BigDecimal("1 + 2");
+  }
+}
